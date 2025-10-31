@@ -1,4 +1,4 @@
-<h1 align="center">Checkpoint 5 - Edge Computing (IoT)</h1>
+<h1 align="center">Checkpoint 6 - Edge Computing (IoT)</h1>
 
 Este projeto tem como objetivo aplicar conceitos de **Internet das Coisas (IoT)** utilizando o **ESP32** como microcontrolador principal.  
 A proposta é criar um sistema capaz de **monitorar variáveis ambientais** — como **temperatura, umidade e luminosidade** — e **enviar essas informações para um broker MQTT**, onde podem ser visualizadas ou tratadas por uma aplicação inteligente, como o **FIWARE**.  
